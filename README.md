@@ -108,6 +108,13 @@ This query shows
 
 This query is important for creating data-driven insights and knowing where to allocate resources and funding.
 
+4) Query 4 shows team rivalries and the better preforming teams of these rivalries. 
+
+![Screen Shot 2024-12-02 at 11 05 14 PM](https://github.com/user-attachments/assets/2b894e5b-b73d-49be-bd90-252ca17ae0f3)
+
+This query is important for comparing rival teams statistically. This would be benificial to recruiters trying to entice athletes to join the better team, or for fundraisers who could garner alumni and donor support by appealing to their sense of pride and ego by pointing out that their team is statistically better.
+
+
 
 
 ## Visualzations:
